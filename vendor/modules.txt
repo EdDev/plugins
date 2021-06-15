@@ -84,6 +84,10 @@ github.com/j-keck/arping
 # github.com/mattn/go-shellwords v1.0.12
 ## explicit
 github.com/mattn/go-shellwords
+# github.com/networkplumbing/go-nft v0.1.1
+## explicit
+github.com/networkplumbing/go-nft/nft
+github.com/networkplumbing/go-nft/nft/schema
 # github.com/nxadm/tail v1.4.8
 github.com/nxadm/tail
 github.com/nxadm/tail/ratelimiter
